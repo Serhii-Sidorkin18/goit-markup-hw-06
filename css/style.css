@@ -314,6 +314,7 @@ color: #2e2f42;
         }
         .mobile-address-link {
             font-weight: 500;
+            font-family: normal;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -321,6 +322,7 @@ color: #4d5ae5;
         }
         .mobile-address-link-zwai {
             font-weight: 500;
+            font-family: normal;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -524,7 +526,7 @@ color: #434455;
             flex-wrap: wrap;
         }
         .strategy-item {
-            width: calc((100% - 72px) / 2);
+            width: calc((100% - 24px) / 2);
         }
         .strategy-item-title {
  
